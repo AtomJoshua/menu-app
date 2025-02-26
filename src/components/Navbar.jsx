@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16 items-center">
           {/* Logo */}
           <div className="text-2xl font-bold">
-            <Link to="/">🍽️ FoodOrder</Link>
+            <Link to="/">🍽️ Foodie's Delight</Link>
           </div>
 
           {/* Desktop Menu */}
